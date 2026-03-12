@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio Page</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background-color:#f4f4f4;
+    margin:0;
+    padding:0;
+}
+
+h1{
+    color:#2c3e50;
+    text-align:center;
+}
+
+p{
+    text-align:center;
+    font-size:18px;
+}
+
+ul{
+    background:white;
+    width:60%;
+    margin:auto;
+    margin-bottom:20px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.1);
+}
+
+li{
+    margin:10px 0;
+    font-size:16px;
+}
+
+a{
+    color:blue;
+    text-decoration:none;
+}
+
+a:hover{
+    color:red;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Saurabh</h1>
+<p>I love to study :)</p>
+
+<h1>Education</h1>
+<ul>
+<li><b>10th Class(UP Board):</b> 75.89</li>
+<li><b>12th Class(UP Board):</b> 73.66</li>
+<li><b>Bachelor of Technology</b></li>
+</ul>
+
+<h1>Skills</h1>
+<ul>
+<li>HTML, CSS</li>
+<li>Python Language</li>
+<li>C Language</li>
+</ul>
+
+<h1>Hobbies</h1>
+<ul>
+<li>Cricket</li>
+<li>Reading</li>
+</ul>
+
+<h1>Contact Me</h1>
+<ul>
+<li><b>Email:</b> shivamgangwar6800@gmail.com</li>
+<li>
+<a href="https://www.linkedin.com/in/saurabh-5234a9325?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+LinkedIn
+</a>
+</li>
+</ul>
+
+</body>
+</html>
